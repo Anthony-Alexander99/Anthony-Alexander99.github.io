@@ -14,11 +14,11 @@ author: Some Person
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "Acerca de mi "
-  Resources:
-    - contenido: "https://beautifuljekyll.com"
-    - mas información: "https://www.markdowntutorial.com/"
-  Mi vida: "https://deanattali.com"
+  LOCALIDAD: "LOCALIDAD "
+  ASIGNACIONES:
+    - TAREA: "https://beautifuljekyll.com"
+    - MÁS INFORMACIÓN: "https://www.markdowntutorial.com/"
+  ACERCA DE MI: "https://deanattali.com"
 
 # --- Logo --- #
 
