@@ -16,9 +16,9 @@ author: Some Person
 navbar-links:
   LOCALIDAD: "LOCALIDAD "
   ASIGNACIONES:
-    - TAREA: "https://beautifuljekyll.com"
-    - MÁS INFORMACIÓN: "https://www.markdowntutorial.com/"
-  ACERCA DE MI: "https://deanattali.com"
+    - MÁS INFORMACIÓN: "https://drive.google.com/file/d/1j3mKfHU1fnl4FtDBOaHn1ei-WPPN9dxN/view?usp=sharing"
+    - RESUMEN PONENCIA: "https://drive.google.com/file/d/1Z3Ymc-rZEYLWPtPN6ZPWgotRgPUgRMmQ/view?usp=sharing"
+  ACERCA DE MI: "https://view.genial.ly/5f04f4cfb4e4fd0d97fd4bd4/horizontal-infographic-review-bio"
 
 # --- Logo --- #
 
@@ -41,9 +41,9 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: https://www.facebook.com/anthoniixitod.parco
+  facebook: "https://www.facebook.com/anthoniixitod.parco"
   
-  youtube: https://www.youtube.com/channel/UCsQYytdXWqNzEsOEmWWBQtA
+  youtube: "https://www.youtube.com/channel/UCsQYytdXWqNzEsOEmWWBQtA"
 #  medium: yourname
 #  reddit: yourname
 #  linkedin: daattali
