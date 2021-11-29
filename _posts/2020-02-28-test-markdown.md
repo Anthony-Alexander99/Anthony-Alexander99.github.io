@@ -23,12 +23,12 @@ Actualmente trabajo de manera independiente mientras tengo clases virtuales una 
 | Ciclismo | Gamer | Turismo |
 
 
+**Gustos**
+Tortas , pasteles entre otros dulces
 
-How about a yummy crepe?
+![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 
-![Crepe](https://www.google.com.ec/search?q=ciclismo&sxsrf=AOaemvLSnyV93QlJQuJRz_KWVQe2koK7HA:1638215014627&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj7sYzAqr70AhXbSzABHc0CCrUQ_AUoAXoECAIQAw&biw=1366&bih=635&dpr=1#imgrc=dFVi1onmNGmqDM.jpg)
-
-It can also be centered!
+Reposterias, comida rapida
 
 ![Crepe](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg){: .mx-auto.d-block :}
 
