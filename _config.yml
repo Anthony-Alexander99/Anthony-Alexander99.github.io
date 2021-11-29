@@ -16,9 +16,9 @@ author: Some Person
 navbar-links:
   About Me: "Acerca de mi "
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+    - contenido: "https://beautifuljekyll.com"
+    - mas información: "https://www.markdowntutorial.com/"
+  Mi vida: "https://deanattali.com"
 
 # --- Logo --- #
 
