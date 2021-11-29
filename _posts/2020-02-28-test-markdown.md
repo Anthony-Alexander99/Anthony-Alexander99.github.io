@@ -12,11 +12,9 @@ Hola , mi nombre es Anthony Alexander Parco Macías soy de Santo Domingo tengo 2
 
 Actualmente trabajo de manera independiente mientras tengo clases virtuales una de las aspiraciones a llegar es culminuar la carrera y sacar una maestria en Ciencias Forenses en informática y realidad aumentada en la educación.
 
-**Aficiones**
+**Yo**
 
 
-
-Here's a useless table:
 
 | Deporte | Hobby | Intereses |
 | :------ |:--- | :--- |
