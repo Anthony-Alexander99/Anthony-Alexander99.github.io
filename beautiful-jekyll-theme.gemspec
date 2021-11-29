@@ -7,13 +7,13 @@ Gem::Specification.new do |spec|
   spec.email         = ["daattali@gmail.com"]
 
   spec.summary       = "Beautiful Jekyll is a ready-to-use Jekyll theme to help you create an awesome website quickly. Perfect for personal blogs or simple project websites, with a focus on responsive and clean design."
-  spec.homepage      = "https://beautifuljekyll.com"
+  spec.homepage      = "https://view.genial.ly/5f04f4cfb4e4fd0d97fd4bd4/horizontal-infographic-review-bio"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(assets|_layouts|_includes|LICENSE|README|feed|404|_data|tags|staticman)}i) }
 
   spec.metadata      = {
-    "changelog_uri"     => "https://beautifuljekyll.com/updates/",
+    "changelog_uri"     => "https://view.genial.ly/5f04f4cfb4e4fd0d97fd4bd4/horizontal-infographic-review-bio",
     "documentation_uri" => "https://github.com/daattali/beautiful-jekyll#readme"
   }
 
